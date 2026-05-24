@@ -4,6 +4,8 @@
 ![C++](https://img.shields.io/badge/C++-17-00599C?logo=cplusplus&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-3.5-064F8C?logo=cmake&logoColor=white)
 ![OpenMP](https://img.shields.io/badge/OpenMP-Supported-05747d)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-6133BD?logo=qiskit&logoColor=white)
 
 Описание
 ---------------
@@ -12,3 +14,5 @@
 Класс Quantum симулирует квантовую систему идеального квантового компьютера и хранит вектор состояний системы, в качестве методов здесь выступают базовые гейты и измерение системы. Отдельными функциями прописаны некоторые квантовые алгоритмы.
 
 В проекте используется библиотека OpenMP для параллельных вычислений.
+
+Так же в рамках проекта была изучена Python библиотека Qiskit для квантовых вычислений, в частности симулятор Aer.
